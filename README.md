@@ -268,10 +268,10 @@ O BPMN utiliza elementos padronizados que ajudam a representar visualmente o flu
 As **atividades** representam os esforços realizados dentro do processo. Elas podem ser ações simples (tarefas) ou agrupamentos de ações relacionadas (subprocessos).
 
 #### **Tipos de Atividades**
-- **Tarefas**: A menor unidade de trabalho realizada no processo.
+- **Tarefas**: A menor unidade de trabalho realizada no processo.<br>
   ![Tipos de Tarefas](https://github.com/user-attachments/assets/7931c19b-0736-4d8c-b681-1902ef688327)
-- **Subprocessos**: Agrupam tarefas com um objetivo comum.  
-  ![Subprocesso Contraído](https://github.com/user-attachments/assets/f3270147-2f54-4761-85c1-ca94f82859db)  
+- **Subprocessos**: Agrupam tarefas com um objetivo comum.<br>  
+  ![Subprocesso Contraído](https://github.com/user-attachments/assets/f3270147-2f54-4761-85c1-ca94f82859db) <br>
   ![Subprocesso Expandido](https://github.com/user-attachments/assets/344f58f4-ddc4-423a-a25f-e3995ce53292)
 
 ---
