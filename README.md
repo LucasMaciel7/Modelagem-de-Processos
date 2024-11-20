@@ -431,7 +431,7 @@ Essas ferramentas oferecem suporte completo ao BPMN, com recursos para criação
 ## 🚀 **Conclusão**
 
 O BPMN é uma ferramenta poderosa e versátil para modelagem de processos de negócio. Sua padronização e simplicidade tornam-no essencial para organizações que buscam otimizar processos e alinhar estratégias entre equipes técnicas e de negócios.
-"""
+
 ---
 
 # 📘 Aula 04: BPM e Indicadores
